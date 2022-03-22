@@ -2,7 +2,7 @@ body {
 	background-color: #f1faee;
 }
 
-h1 {
+h1,h4 {
 	text-align: center;
 	font-family: "Georgia", Georgia, serif ;
 }
